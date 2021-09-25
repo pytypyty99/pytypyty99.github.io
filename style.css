@@ -52,15 +52,13 @@ body {
 ul.currencies {
     border:1px solid #000;
     height: calc(100vh - 40px - 100px - 40px - 57px);
-    background-color:rgb(207, 123, 158) ;
-    opacity: 70%;
+    background-color:rgb(207, 123, 158,0.8) ;
     overflow-y: auto;
     border-bottom-left-radius:5px ;
     border-bottom-right-radius:5px ;
 }
 ul.currencies li {
     background-color: #FDF2E9 ;
-    opacity: 0%;
     list-style: none;
     padding: 1rem 1rem 0.75rem 1rem;
     border-bottom: 1px solid #000;
