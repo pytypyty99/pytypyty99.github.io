@@ -60,6 +60,7 @@ ul.currencies {
 }
 ul.currencies li {
     background-color: #FDF2E9 ;
+    opacity: 0%;
     list-style: none;
     padding: 1rem 1rem 0.75rem 1rem;
     border-bottom: 1px solid #000;
